@@ -368,5 +368,3 @@ The PRD covers the product context, competitor benchmarking, customer experience
 This project is licensed under the [MIT License](./LICENSE).
 
 Copyright © 2026 Gursimaran Kaur.
-
-You are free to use, copy, modify, and distribute this work, including for commercial purposes, provided that the copyright notice and permission notice are included. The work is provided "as is", without warranty of any kind.
