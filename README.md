@@ -1,10 +1,16 @@
 # Blinzedu – Hyperlocal Delivery App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Document: PRD](https://img.shields.io/badge/Document-PRD-blue.svg)](Blinzedu-PRD.md)
+[![Prototype: Live](https://img.shields.io/badge/Prototype-Live-brightgreen.svg)](https://blinzedu-tipping-prototype.netlify.app/)
+
 ## Delivery Partner Tipping Feature
 
 A product case study proposing an in-app tipping experience for **Blinzedu**, an Indian hyperlocal delivery platform focused on delivering groceries, household essentials, electronics, and other daily necessities within 10–20 minutes.
 
 This repository documents the product requirements, customer experience, proposed technical requirements, success metrics, roadmap, and launch risks for introducing voluntary customer tips for delivery partners.
+
+**Quick links:** [Read the full PRD](./Blinzedu-PRD.md) · [Open the live prototype](https://blinzedu-tipping-prototype.netlify.app/) · [View wireframes](#wireframe-gallery) · [License](#license)
 
 > **Project type:** Product Management case study / Product Requirements Document (PRD)  
 > **Contributor:** Gursimaran Kaur | PMF Cohort 52  
@@ -27,6 +33,7 @@ This repository documents the product requirements, customer experience, propose
 - [Risks and Mitigations](#risks-and-mitigations)
 - [Repository Structure](#repository-structure)
 - [Project Documentation](#project-documentation)
+- [License](#license)
 - [Disclaimer](#disclaimer)
 
 ---
@@ -136,7 +143,44 @@ Explore the clickable customer journey:
 
 **[Open Blinzedu Tipping Prototype](https://blinzedu-tipping-prototype.netlify.app/)**
 
-The original PRD includes the visual wireframes. Add exported wireframe images to the `assets/wireframes/` folder if you want them to appear directly in this repository.
+### Wireframe gallery
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/wireframes/checkout-tip-options.png" alt="Checkout – Tip Options" width="260"><br>
+      <strong>Checkout – Tip Options</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/wireframes/custom-tip-input.png" alt="Custom Tip Input" width="260"><br>
+      <strong>Custom Tip Input</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/wireframes/tip-confirmation.png" alt="Tip Confirmation" width="260"><br>
+      <strong>Tip Confirmation</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/wireframes/order-history-tip.png" alt="Order History – Tip Later" width="260"><br>
+      <strong>Order History – Tip Later</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/wireframes/tip-preferences.png" alt="Tip Preferences" width="260"><br>
+      <strong>Tip Preferences</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/screenshots/competitor-benchmarking.png" alt="Competitor benchmarking" width="260"><br>
+      <strong>Competitor Benchmarking</strong>
+    </td>
+  </tr>
+</table>
+
+### Full wireframe overview
+
+![Blinzedu tipping feature wireframes](assets/wireframes/blinzedu-tipping-wireframes.png)
+
+All wireframes and supporting screenshots are available in the [`assets/`](./assets) folder.
 
 ## Technical Requirements
 
@@ -286,25 +330,24 @@ These are proposed targets from the PRD, not measured results.
 
 ## Repository Structure
 
-Suggested structure for this GitHub project:
-
 ```text
-Blinzedu/
+NextLeap-Assignment-Blinzedu-PRD-06-November-2026/
 ├── README.md
 ├── Blinzedu-PRD.md
+├── LICENSE
 └── assets/
     ├── wireframes/
     │   ├── checkout-tip-options.png
     │   ├── custom-tip-input.png
     │   ├── tip-confirmation.png
     │   ├── order-history-tip.png
-    |   ├── tip-preferences.png
-    │   └── Blinzedu Tipping Feature Wireframes.png
+    │   ├── tip-preferences.png
+    │   └── blinzedu-tipping-wireframes.png
     └── screenshots/
         └── competitor-benchmarking.png
 ```
 
-The `assets/` images are suggested additions. Add them only when the corresponding image files are available.
+All wireframe images and the competitor benchmarking screenshot are committed in the [`assets/`](./assets) folder and embedded in the [wireframe gallery](#wireframe-gallery).
 
 ## Project Documentation
 
@@ -313,6 +356,21 @@ The detailed product requirements are available here:
 **[Blinzedu-PRD.md](./Blinzedu-PRD.md)**
 
 The PRD covers the product context, competitor benchmarking, customer experience, user flows, acceptance criteria, proposed APIs and database schema, analytics, success metrics, roadmap, and risk mitigations.
+
+| Resource | Description |
+|---|---|
+| [Blinzedu-PRD.md](./Blinzedu-PRD.md) | Full Product Requirements Document for the tipping feature. |
+| [Live prototype](https://blinzedu-tipping-prototype.netlify.app/) | Clickable mobile walkthrough of the proposed customer journey. |
+| [Wireframe gallery](#wireframe-gallery) | Checkout, custom tip, confirmation, Order History, and preference screens. |
+| [Competitor benchmarking](./assets/screenshots/competitor-benchmarking.png) | Reference comparison used during product research. |
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+Copyright © 2026 Gursimaran Kaur.
+
+You are free to use, copy, modify, and distribute this work, including for commercial purposes, provided that the copyright notice and permission notice are included. The work is provided "as is", without warranty of any kind.
 
 ## Disclaimer
 
