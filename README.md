@@ -168,12 +168,12 @@ Explore the clickable customer journey:
       <img src="assets/wireframes/tip-preferences.png" alt="Tip Preferences" width="260"><br>
       <strong>Tip Preferences</strong>
     </td>
-    <td align="center" width="33%">
-      <img src="assets/screenshots/competitor-benchmarking.png" alt="Competitor benchmarking" width="260"><br>
-      <strong>Competitor Benchmarking</strong>
-    </td>
   </tr>
 </table>
+
+### Competitor benchmarking
+
+![Competitor benchmarking for the Blinzedu tipping feature](assets/screenshots/competitor-benchmarking.png)
 
 ### Full wireframe overview
 
