@@ -298,7 +298,8 @@ Blinzedu/
     │   ├── custom-tip-input.png
     │   ├── tip-confirmation.png
     │   ├── order-history-tip.png
-    │   └── tip-preferences.png
+    |   ├── tip-preferences.png
+    │   └── Blinzedu Tipping Feature Wireframes.png
     └── screenshots/
         └── competitor-benchmarking.png
 ```
