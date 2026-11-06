@@ -34,7 +34,6 @@ This repository documents the product requirements, customer experience, propose
 - [Repository Structure](#repository-structure)
 - [Project Documentation](#project-documentation)
 - [License](#license)
-- [Disclaimer](#disclaimer)
 
 ---
 
@@ -371,7 +370,3 @@ This project is licensed under the [MIT License](./LICENSE).
 Copyright © 2026 Gursimaran Kaur.
 
 You are free to use, copy, modify, and distribute this work, including for commercial purposes, provided that the copyright notice and permission notice are included. The work is provided "as is", without warranty of any kind.
-
-## Disclaimer
-
-This repository documents a proposed product solution prepared as a Product Management case study. Feature behaviour, API endpoints, database entities, targets, and timelines describe the proposal in the PRD; they should not be interpreted as confirmation of a live production implementation or actual business performance.

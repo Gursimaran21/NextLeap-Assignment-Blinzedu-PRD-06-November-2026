@@ -482,9 +482,3 @@ To minimise risks during the Blinzedu tipping feature launch:
 5. **Continuous Monitoring:** Track payment failures, refunds, customer complaints and tipping conversion rates.
 6. **Pilot Testing:** Launch initially with a limited customer group to identify issues before a full rollout.
 
----
-
-## Source Notes
-
-This Markdown document is based on the supplied 16-page PDF, *Assignment_Blinzedu_PRD.pdf*. The structure, product decisions, proposed targets, API examples, metrics, roadmap, and risk mitigations have been retained from the source. The competitor screenshots and five-screen wireframe are visual assets in the original PDF; they are not embedded in this Markdown file.
-
